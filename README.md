@@ -21,7 +21,7 @@ or use the executable file (.exe)
 | END           |       end      |
 | REPEAT        |    repeat      |
 | UNTIL         |      until     |
-| Identifier    |       x<br>abc |
+| IDENTIFIER    |       x<br>abc |
 | ASSIGN        |        :=      |
 | READ          |       read     |
 | WRITE         |      write     |
