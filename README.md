@@ -14,28 +14,26 @@ or use the executable file (.exe)
 
 ## List of supported Tokens
 |    Token Type |    Token Value |
-|     :---:      |     :---:     |
-| SEMICOLON     | ;    |
-| IF       | if      |
-| THEN       | then      |
-| END       | end      |
-| REPEAT       | repeat      |
-| UNTIL       | until     |
-| Identifier       | * x
-                     * abc |
-| ASSIGN       | :=      |
-| READ       | read     |
-| WRITE       | write     |
-| LESS THAN       | <      |
-| EQUAL       | =      |
-| PLUS       | +      |
-| MINUS       | -      |
-| MULT      | *      |
-| DIV       | /      |
-| OPENBRACKET       | (      |
-| CLOSEDBRACKET       | )      |
-| NUMBER       | * 127
-                 * 289 |
+|     :---:     |      :---:     |
+| SEMICOLON     |           ;    |
+| IF            |        if      |
+| THEN          |      then      |
+| END           |       end      |
+| REPEAT        |    repeat      |
+| UNTIL         |      until     |
+| Identifier    |       x<br>abc |
+| ASSIGN        |        :=      |
+| READ          |       read     |
+| WRITE         |      write     |
+| LESS THAN     |         <      |
+| EQUAL         |         =      |
+| PLUS          |         +      |
+| MINUS         |         -      |
+| MULT          |         *      |
+| DIV           |         /      |
+| OPENBRACKET   |         (      |
+| CLOSEDBRACKET |         )      |
+| NUMBER        |     127<br>289 |
 
 
 
